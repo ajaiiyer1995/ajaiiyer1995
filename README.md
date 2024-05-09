@@ -19,7 +19,6 @@ I'm a passionate techie who loves learning new stuff and keep myself updated. We
 -> CI/CD, Jenkins
 -> Software release and development 
 
-I mainly work in High Tech Software Peri
 Let's connect and create something amazing together! 😊
 
 <!---
