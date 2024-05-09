@@ -9,6 +9,17 @@ I'm a passionate techie who loves learning new stuff and keep myself updated. We
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy travelling to new places and gathering new experiences.
 
+- I am currently working on testing and providing quality assurance for High-End Enterprise compute, storage, and network products. My expertise includes:
+
+
+-> Python Language and frameworks
+-> API Testing
+-> Operating systems
+-> Networking
+-> CI/CD, Jenkins
+-> Software release and development 
+
+I mainly work in High Tech Software Peri
 Let's connect and create something amazing together! 😊
 
 <!---
